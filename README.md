@@ -28,7 +28,7 @@ I enjoy breaking systems apart, understanding how they work beneath the surface,
 ## Projects
 
 | Project | Description |
-|:---:|:---:|
+|---|---|
 | Authentication API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. |
 | Blog API | A RESTful backend API built for a blogging platform where users can create, update, delete, and manage blog posts. |
 
