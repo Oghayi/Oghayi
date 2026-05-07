@@ -48,4 +48,6 @@ I enjoy breaking systems apart, understanding how they work beneath the surface,
 - Building production-level APIs
 - Learning system design basics
 
-
+| Name | Role |
+|:---:|:---:|
+| Mus'ab | Backend Developer |
