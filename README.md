@@ -1,5 +1,5 @@
 # <h1 align="center">Mus'ab Ali</h1>
-##  Backend Developer | Node.js | Express | MongoDB 
+<br> <h3 align="center">Backend Engineer • Scalable Systems • API Architecture</h3>
 
 
 ## About Me
@@ -48,6 +48,4 @@ I enjoy breaking systems apart, understanding how they work beneath the surface,
 - Building production-level APIs
 - Learning system design basics
 
-| Name | Role |
-|:---:|:---:|
-| Mus'ab | Backend Developer |
+
