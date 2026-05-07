@@ -44,6 +44,6 @@ I enjoy breaking systems apart, understanding how they work beneath the surface,
 ## What I'm Currently Working On
 - Improving backend system design skills
 - Building production-level APIs
-- Learning system design basics
+- Performance optimization using Redis
 
 
