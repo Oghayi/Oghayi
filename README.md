@@ -1,5 +1,5 @@
-# : Mus'ab Ali :
-## : Backend Developer | Node.js | Express | MongoDB :
+# <h1 align="center">Mus'ab Ali</h1>
+##  Backend Developer | Node.js | Express | MongoDB 
 
 
 ## About Me
@@ -27,7 +27,7 @@ I enjoy breaking systems apart, understanding how they work beneath the surface,
 ## Projects
 
 | Project | Description |
-
+|:---:|:---:|
 | Authentication API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. The project focuses on session security, password hashing, role-based access control, and scalable user management practices commonly used in modern backend systems. |
 
 | E-commerce Backend API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. The project focuses on session security, password hashing, role-based access control, and scalable user management practices commonly used in modern backend systems. |
