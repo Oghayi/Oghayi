@@ -1,10 +1,39 @@
-# Hi, I'm Mus'ab 
+# : Mus'ab Ali :
+## : Backend Developer | Node.js | Express | MongoDB :
 
-## Backend Developer | Node.js | Express | MongoDB
 
+## About Me
 I am a backend developer focused on building scalable, secure, and efficient server-side applications. I enjoy designing APIs, working with databases, and solving real-world problems through code.
 
+I got into tech through curiosity.
+
+I’ve always been more interested in what happens behind the scenes.
+
+While most people focused on how applications looked, I became curious about the processing behind them, how requests move, how servers respond, how databases store information, and how entire systems work together quietly in the background.
+
+That curiosity is what pulled me into backend development.
+
+The more I learned, the more I realized backend engineering is the backbone of modern applications. It’s the layer responsible for logic, scalability, performance, and reliability, and I fell in love with building that foundation.
+
+Today, I build APIs, backend systems, and scalable architectures focused on clean design, efficiency, and real-world usability.
+
+I enjoy breaking systems apart, understanding how they work beneath the surface, and engineering solutions that make applications run smoothly at scale.
+
 ---
+
+
+
+
+## Projects
+
+| Project | Description |
+
+| Authentication API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. The project focuses on session security, password hashing, role-based access control, and scalable user management practices commonly used in modern backend systems. |
+
+| E-commerce Backend API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. The project focuses on session security, password hashing, role-based access control, and scalable user management practices commonly used in modern backend systems. |
+
+| Blog API | A RESTful backend API built for a blogging platform where users can create, update, delete, and manage blog posts. The project includes authentication, authorization, comments, pagination, and structured database design to support content management efficiently. |
+
 
 ## Tech Stack
 - Languages: JavaScript
@@ -12,20 +41,6 @@ I am a backend developer focused on building scalable, secure, and efficient ser
 - Database: MongoDB
 - Authentication: JWT, OAuth basics
 - Tools: Git, GitHub, Postman, Docker
-
-
-
-## Featured Projects
-
-### Authentication API
-A secure user authentication system with JWT, password hashing, and role-based access control.
-
-### E-commerce Backend API
-REST API for product management, cart system, orders, and admin features.
-
-### Blog API
-A CRUD-based blog system with user authentication and comment functionality.
-
 
 
 ## What I'm Currently Working On
