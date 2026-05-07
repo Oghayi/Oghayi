@@ -29,11 +29,10 @@ I enjoy breaking systems apart, understanding how they work beneath the surface,
 
 | Project | Description |
 |:---:|:---:|
-| Authentication API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. The project focuses on session security, password hashing, role-based access control, and scalable user management practices commonly used in modern backend systems. |
+| Authentication API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. |
 
-| E-commerce Backend API | A secure authentication system built to handle user registration, login, authorization, and protected routes using JWT-based authentication. The project focuses on session security, password hashing, role-based access control, and scalable user management practices commonly used in modern backend systems. |
-
-| Blog API | A RESTful backend API built for a blogging platform where users can create, update, delete, and manage blog posts. The project includes authentication, authorization, comments, pagination, and structured database design to support content management efficiently. |
+|:---:|:---:|
+| Blog API | A RESTful backend API built for a blogging platform where users can create, update, delete, and manage blog posts. |
 
 
 ## Tech Stack
