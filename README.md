@@ -1,4 +1,6 @@
-# <h1 align="center">Mus'ab Ali</h1> # <h3 align="center">Backend Engineer • Scalable Systems • API Architecture</h3>
+# <h1 align="center">Mus'ab Ali</h1>
+
+<h3 align="center">Backend Engineer • Scalable Systems • API Architecture</h3>
 
 
 ## About Me
